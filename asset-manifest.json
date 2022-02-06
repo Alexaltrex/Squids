@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Squids/static/css/main.c6e0b16a.css",
+    "main.js": "/Squids/static/js/main.4cd8492e.js",
+    "static/js/787.b4507953.chunk.js": "/Squids/static/js/787.b4507953.chunk.js",
+    "static/media/home-back.gif": "/Squids/static/media/home-back.5fd060cdcd57670f389f.gif",
+    "static/media/slide0.gif": "/Squids/static/media/slide0.273aa2ffaa62d7ad6cc8.gif",
+    "static/media/team-back.png": "/Squids/static/media/team-back.a5d39caec1c9eb8cb9ef.png",
+    "static/media/slide3.gif": "/Squids/static/media/slide3.9a1dfab2e5f1ec1e7447.gif",
+    "static/media/slide4.gif": "/Squids/static/media/slide4.d40ead21806aad7f2574.gif",
+    "static/media/slide1.gif": "/Squids/static/media/slide1.230af56e13227e8c744f.gif",
+    "static/media/slide5.gif": "/Squids/static/media/slide5.7fa447cfa1d8b18c735f.gif",
+    "static/media/slide2.gif": "/Squids/static/media/slide2.25d46263e2b142365b8c.gif",
+    "static/media/burger-menu-back.png": "/Squids/static/media/burger-menu-back.e5e811b79b1593513b3c.png",
+    "static/media/header-logo.png": "/Squids/static/media/header-logo.025d6435ed3fd79c4d97.png",
+    "static/media/faq-barrels.png": "/Squids/static/media/faq-barrels.35c105c8ec46b6bef71c.png",
+    "static/media/team-person.png": "/Squids/static/media/team-person.d966c151fdcd88037203.png",
+    "index.html": "/Squids/index.html",
+    "main.c6e0b16a.css.map": "/Squids/static/css/main.c6e0b16a.css.map",
+    "main.4cd8492e.js.map": "/Squids/static/js/main.4cd8492e.js.map",
+    "787.b4507953.chunk.js.map": "/Squids/static/js/787.b4507953.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6e0b16a.css",
+    "static/js/main.4cd8492e.js"
+  ]
+}
