@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Squids/static/css/main.51969188.css",
-    "main.js": "/Squids/static/js/main.6bfcce98.js",
+    "main.css": "/Squids/static/css/main.39236630.css",
+    "main.js": "/Squids/static/js/main.62545356.js",
     "static/js/787.b4507953.chunk.js": "/Squids/static/js/787.b4507953.chunk.js",
     "static/media/home-back.gif": "/Squids/static/media/home-back.5fd060cdcd57670f389f.gif",
     "static/media/team-back-air.png": "/Squids/static/media/team-back-air.9061a0b2fb7631346818.png",
@@ -19,12 +19,12 @@
     "static/media/faq-barrels.png": "/Squids/static/media/faq-barrels.35c105c8ec46b6bef71c.png",
     "static/media/team-person.png": "/Squids/static/media/team-person.d966c151fdcd88037203.png",
     "index.html": "/Squids/index.html",
-    "main.51969188.css.map": "/Squids/static/css/main.51969188.css.map",
-    "main.6bfcce98.js.map": "/Squids/static/js/main.6bfcce98.js.map",
+    "main.39236630.css.map": "/Squids/static/css/main.39236630.css.map",
+    "main.62545356.js.map": "/Squids/static/js/main.62545356.js.map",
     "787.b4507953.chunk.js.map": "/Squids/static/js/787.b4507953.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.51969188.css",
-    "static/js/main.6bfcce98.js"
+    "static/css/main.39236630.css",
+    "static/js/main.62545356.js"
   ]
 }
