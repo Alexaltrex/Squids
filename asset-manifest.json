@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Squids/static/css/main.f8cc2826.css",
-    "main.js": "/Squids/static/js/main.84361da7.js",
+    "main.css": "/Squids/static/css/main.3dfdb33b.css",
+    "main.js": "/Squids/static/js/main.6eb04746.js",
     "static/js/787.b4507953.chunk.js": "/Squids/static/js/787.b4507953.chunk.js",
-    "static/media/slide1.gif": "/Squids/static/media/slide1.0a3390bb82bde0139643.gif",
-    "static/media/slide2.gif": "/Squids/static/media/slide2.6de8322eb8cce3a82fe9.gif",
-    "static/media/slide4.gif": "/Squids/static/media/slide4.6e45e2d077a8984e09bd.gif",
-    "static/media/slide6.gif": "/Squids/static/media/slide6.7a694067db828c611ea1.gif",
-    "static/media/slide0.gif": "/Squids/static/media/slide0.6d40045f3527f767c992.gif",
-    "static/media/slide3.gif": "/Squids/static/media/slide3.66774e8b79b1e2000dae.gif",
     "static/media/rain.gif": "/Squids/static/media/rain.6b796b572a78035a1394.gif",
+    "static/media/slide3.gif": "/Squids/static/media/slide3.bc9d921cb3e558dcef77.gif",
     "static/media/home-back.gif": "/Squids/static/media/home-back.5fd060cdcd57670f389f.gif",
+    "static/media/slide4.gif": "/Squids/static/media/slide4.145f73d417f5f694faad.gif",
     "static/media/team-back-air.png": "/Squids/static/media/team-back-air.59be4c6ef92c340b0383.png",
-    "static/media/slide5.gif": "/Squids/static/media/slide5.273aa2ffaa62d7ad6cc8.gif",
+    "static/media/slide2.gif": "/Squids/static/media/slide2.4df44485520aa7e75aab.gif",
+    "static/media/slide5.gif": "/Squids/static/media/slide5.5959dc6d766012fbfb66.gif",
+    "static/media/slide6.gif": "/Squids/static/media/slide6.806782c679d9d88cbaa6.gif",
     "static/media/barrels.gif": "/Squids/static/media/barrels.ceb21ad562952184027e.gif",
+    "static/media/slide0.gif": "/Squids/static/media/slide0.95e433f60c18211c3e6c.gif",
+    "static/media/slide1.gif": "/Squids/static/media/slide1.9f962f4062429db3fc7d.gif",
     "static/media/home-back-mobile.gif": "/Squids/static/media/home-back-mobile.f57c16e8ddad84c6d53f.gif",
     "static/media/burger-menu-back.png": "/Squids/static/media/burger-menu-back.e5e811b79b1593513b3c.png",
     "static/media/team-back-whithout-air.png": "/Squids/static/media/team-back-whithout-air.be32a7d4101353877136.png",
@@ -30,7 +30,6 @@
     "static/media/linkedIn-d.svg": "/Squids/static/media/linkedIn-d.fc1c8ce42189b5988426f0a58e11d3f8.svg",
     "static/media/linkedIn-c.svg": "/Squids/static/media/linkedIn-c.7f5ec6f68e39df0873798088de926cce.svg",
     "static/media/linkedIn-h.svg": "/Squids/static/media/linkedIn-h.48a991cd080f6aaa7d1b815588eb37b2.svg",
-    "static/media/preloader.svg": "/Squids/static/media/preloader.e73b829207ecceec66b1ccc443b38d68.svg",
     "static/media/metamask-c.svg": "/Squids/static/media/metamask-c.5b77abc7e15d29affbea678c1106d952.svg",
     "static/media/metamask-h.svg": "/Squids/static/media/metamask-h.051e9fe6cd45783716590abc42207c29.svg",
     "static/media/metamask-d.svg": "/Squids/static/media/metamask-d.5cb9434ab3e95caf8789f87ad4504970.svg",
@@ -59,12 +58,12 @@
     "static/media/team-card-default-mobile.svg": "/Squids/static/media/team-card-default-mobile.66d452127beea9449f41.svg",
     "static/media/team-card-hover-mobile.svg": "/Squids/static/media/team-card-hover-mobile.7995b56ba955fef75aed.svg",
     "index.html": "/Squids/index.html",
-    "main.f8cc2826.css.map": "/Squids/static/css/main.f8cc2826.css.map",
-    "main.84361da7.js.map": "/Squids/static/js/main.84361da7.js.map",
+    "main.3dfdb33b.css.map": "/Squids/static/css/main.3dfdb33b.css.map",
+    "main.6eb04746.js.map": "/Squids/static/js/main.6eb04746.js.map",
     "787.b4507953.chunk.js.map": "/Squids/static/js/787.b4507953.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f8cc2826.css",
-    "static/js/main.84361da7.js"
+    "static/css/main.3dfdb33b.css",
+    "static/js/main.6eb04746.js"
   ]
 }
