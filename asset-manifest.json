@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Squids/static/css/main.3dfdb33b.css",
-    "main.js": "/Squids/static/js/main.6eb04746.js",
+    "main.css": "/Squids/static/css/main.4c3e3cd1.css",
+    "main.js": "/Squids/static/js/main.7a9a7bf3.js",
     "static/js/787.b4507953.chunk.js": "/Squids/static/js/787.b4507953.chunk.js",
     "static/media/rain.gif": "/Squids/static/media/rain.6b796b572a78035a1394.gif",
     "static/media/slide3.gif": "/Squids/static/media/slide3.bc9d921cb3e558dcef77.gif",
@@ -30,6 +30,7 @@
     "static/media/linkedIn-d.svg": "/Squids/static/media/linkedIn-d.fc1c8ce42189b5988426f0a58e11d3f8.svg",
     "static/media/linkedIn-c.svg": "/Squids/static/media/linkedIn-c.7f5ec6f68e39df0873798088de926cce.svg",
     "static/media/linkedIn-h.svg": "/Squids/static/media/linkedIn-h.48a991cd080f6aaa7d1b815588eb37b2.svg",
+    "static/media/preloader.svg": "/Squids/static/media/preloader.e73b829207ecceec66b1ccc443b38d68.svg",
     "static/media/metamask-c.svg": "/Squids/static/media/metamask-c.5b77abc7e15d29affbea678c1106d952.svg",
     "static/media/metamask-h.svg": "/Squids/static/media/metamask-h.051e9fe6cd45783716590abc42207c29.svg",
     "static/media/metamask-d.svg": "/Squids/static/media/metamask-d.5cb9434ab3e95caf8789f87ad4504970.svg",
@@ -58,12 +59,12 @@
     "static/media/team-card-default-mobile.svg": "/Squids/static/media/team-card-default-mobile.66d452127beea9449f41.svg",
     "static/media/team-card-hover-mobile.svg": "/Squids/static/media/team-card-hover-mobile.7995b56ba955fef75aed.svg",
     "index.html": "/Squids/index.html",
-    "main.3dfdb33b.css.map": "/Squids/static/css/main.3dfdb33b.css.map",
-    "main.6eb04746.js.map": "/Squids/static/js/main.6eb04746.js.map",
+    "main.4c3e3cd1.css.map": "/Squids/static/css/main.4c3e3cd1.css.map",
+    "main.7a9a7bf3.js.map": "/Squids/static/js/main.7a9a7bf3.js.map",
     "787.b4507953.chunk.js.map": "/Squids/static/js/787.b4507953.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3dfdb33b.css",
-    "static/js/main.6eb04746.js"
+    "static/css/main.4c3e3cd1.css",
+    "static/js/main.7a9a7bf3.js"
   ]
 }
