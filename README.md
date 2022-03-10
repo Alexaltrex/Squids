@@ -7,7 +7,7 @@ https://alexaltrex.github.io/Squids/
 </div> 
 
 # Description
-React app works with cripto, with preloader, adaptive and responsive design, sun moving while scroll animation
+React app with preloader, adaptive and responsive design, sun moving while scroll animation
 
 # Development
 * app based on react, create-react-app
